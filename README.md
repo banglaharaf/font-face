@@ -4,7 +4,7 @@
 
 **বাংলা হরফ (BanglaHaraf)** is a Bengali typography platform designed to make discovering, testing, comparing, and using Bengali fonts easier for designers, developers, typographers, and Bengali language enthusiasts.
 
-🌐 **Live Website:** https://banglaharaf.github.io/FontFace/
+🌐 **Live Website:** https://banglaharaf.github.io/font-face/
 
 ---
 
